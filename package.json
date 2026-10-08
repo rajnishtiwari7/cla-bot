@@ -1,6 +1,6 @@
 {
   "name": "cla-bot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Self-written, dependency-free CLA automation for FOSSASIA repositories.",
   "private": true,
   "license": "Apache-2.0",

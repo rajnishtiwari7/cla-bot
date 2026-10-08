@@ -1,7 +1,15 @@
 # Changelog
 
-All notable changes to this project are documented here.
-Format loosely follows [Keep a Changelog](https://keepachangelog.com/).
+All notable changes to this project are documented here. Format loosely follows [Keep a Changelog](https://keepachangelog.com/).
+
+## [Unreleased]
+
+## [1.0.4]
+
+### Fixed
+
+- Fix the CycloneDX SBOM generation issue that prevented GitHub's attestation step from accepting the SBOM.
+
 ## [1.0.3]
 
 ### Added
